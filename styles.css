@@ -1,0 +1,13 @@
+h1 {
+  background-color: antiquewhite;
+  color: blue;
+  line-height: 1.7;
+  font-weight: 700;
+}
+
+h2 {
+  background-color: rgb(211, 152, 75);
+  color: rgb(98, 98, 187);
+  line-height: 1.4;
+  font-weight: 400;
+}
